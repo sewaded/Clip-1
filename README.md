@@ -10,3 +10,4 @@ a precious part in 'gd4' is the 'reverse', which is the core of Gravity Reverse 
 it can effectively make our program spring out of local optima and proceed searching other areas
 and....
 yeah.... 'gd4' introduces 'fgs' which is the loss function updater.
+Oh btw, don't try H70 or H37. They are too too too time-consuming
